@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "model-1",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1591285512566-b71a700e0e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-2",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1680711555406-a3bddf233f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-3",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1680711555406-a3bddf233f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-4",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1742287724816-4a8a1cc7ad5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-5",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1742287724816-4a8a1cc7ad5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-6",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1580854898508-4761a9c769a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-7",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1591285512566-b71a700e0e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-8",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1591285512566-b71a700e0e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-9",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1742287724816-4a8a1cc7ad5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-10",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1624354865912-fdf2f0e09a21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-11",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1624354865912-fdf2f0e09a21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-12",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1680711555387-3f7c64c4747b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-13",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1742287724816-4a8a1cc7ad5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-14",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1678705730064-a7ecbab4b3fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    },
+    {
+      "id": "model-15",
+      "description": "Model in a saree",
+      "imageUrl": "https://images.unsplash.com/photo-1678705730064-a7ecbab4b3fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNhcmVlfGVufDB8fHx8MTc1OTE2NTEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman saree"
+    }
+  ]
+}
