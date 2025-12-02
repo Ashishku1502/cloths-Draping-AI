@@ -5,7 +5,7 @@ Welcome to the **Cloths Draping AI** project! This repository provides an AI-pow
 ## 🌐 Live Demo
 
 Experience the application instantly here:  
-[Cloths Draping AI Studio](https://studio--studio-1137591417-c2f79.us-central1.hosted.app/)
+[Cloths Draping AI Studio](https://app-7xt3q4eoq2o1.appmedo.com)
 
 ---
 
@@ -20,7 +20,7 @@ Experience the application instantly here:
 
 ## 🖥️ How to Use
 
-1. Visit the [Live Demo](https://studio--studio-1137591417-c2f79.us-central1.hosted.app/).
+1. Visit the [Live Demo](https://app-7xt3q4eoq2o1.appmedo.com).
 2. Upload an image of the person/model.
 3. Choose the clothing item you want to try on.
 4. The AI will process and display the draped result.
@@ -39,7 +39,7 @@ Experience the application instantly here:
 
 ## ⚙️ Setup & Installation
 
-> **Note:** If you just want to try the app, use the [Live Demo](https://studio--studio-1137591417-c2f79.us-central1.hosted.app/).  
+> **Note:** If you just want to try the app, use the [Live Demo](https://app-7xt3q4eoq2o1.appmedo.com).  
 > Developers can follow the steps below to run locally.
 
 ### 1. Clone the repo
